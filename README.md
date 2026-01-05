@@ -57,7 +57,7 @@ This assumption is explicitly validated using pre-intervention trends.
 Estimated causal impact of the intervention:
 
 - **Point estimate:** +4.84  
-- **95% confidence interval:** [3.76, 5.94]
+- **95% confidence interval:** [3.79, 5.85]
 
 The estimate is statistically significant and closely recovers the known ground-truth effect used in the synthetic data generation.
 
