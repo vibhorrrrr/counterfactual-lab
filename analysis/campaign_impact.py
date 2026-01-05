@@ -71,4 +71,7 @@ plt.title("Observed vs Counterfactual Outcome")
 plt.xlabel("Time")
 plt.ylabel("Outcome")
 plt.legend()
+plt.tight_layout()
+plt.savefig("figures/counterfactual.png", dpi=200)
 plt.show()
+
